@@ -1,5 +1,5 @@
+import { APITester } from '@/client/APITester'
 import type { FC } from 'react'
-import { APITester } from './APITester'
 import './index.css'
 
 import logo from './logo.svg'
